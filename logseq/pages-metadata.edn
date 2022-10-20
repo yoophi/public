@@ -42,7 +42,7 @@
   :block/updated-at 1666233047732}
  {:block/name "oct 20th, 2022",
   :block/created-at 1666232764213,
-  :block/updated-at 1666232775979}
+  :block/updated-at 1666241527064}
  {:block/name "todo",
   :block/created-at 1666233047732,
   :block/updated-at 1666233047732}
@@ -50,5 +50,8 @@
   :block/created-at 1666233047732,
   :block/updated-at 1666233047732}
  {:block/name "waiting",
-  :block/created-at 1666233047732, 
-  :block/updated-at 1666233047732}]
+  :block/created-at 1666233047732,
+  :block/updated-at 1666233047732}
+ {:block/name "성장을 위한 연습",
+  :block/created-at 1666241527064, 
+  :block/updated-at 1666241583000}]
